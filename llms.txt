@@ -1,0 +1,9 @@
+# Castle Hills Business Alliance Directory
+
+> A free directory of 341 local businesses in and around Castle Hills, Texas (San Antonio area). Each listing has the business name, category, address, phone number and, when available, a website and contact person. Data comes from the Castle Hills Business Association list (September 2021) and may be out of date.
+
+## Pages
+- [Directory](https://YOUR-DOMAIN.com/): searchable list of all businesses. The full list is also in the page HTML as plain text and as schema.org LocalBusiness data.
+- [Privacy Policy](https://YOUR-DOMAIN.com/privacy.html): what information is published and collected
+- [Terms of Use](https://YOUR-DOMAIN.com/terms.html): terms for using the directory
+- [Accessibility](https://YOUR-DOMAIN.com/accessibility.html): accessibility statement
